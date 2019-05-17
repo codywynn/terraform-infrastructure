@@ -1,7 +1,9 @@
 # infrastructure
 
-`terraform init`
+``` bash
+$ terraform init
 
-`terraform plan`
+$ terraform plan
 
-`terraform apply`
+$ terraform apply
+```
